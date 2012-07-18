@@ -1,0 +1,16 @@
+/** \mainpage DJ Bushido
+ * \section welcome Welcome
+ * This page is for Dj Bushido - you can find my work at <a href="https://github.com/DjBushido">my github repository</a>.
+ * \section projects Projects
+ * \subsection libcvautomation Libcvautomation
+ * Libcvautomation is a GUI automation and testing tool based on image recognition and response. This program was designed as a direct replacement for Sikuli and Xpresser. Each solution had large problems with crashing, and both refused to function on RedHat Linux and Ubuntu 12.04. I really liked the way each of these programs approached GUI automation, but they simply didn't work. As such, a simple library was designed to integrate OpenCV and XTest, which can be used by BASH to drive GUI testing and automation, that works on both new and old Linux distributions.
+ * Documentation Location: <a href="http://djbushido.github.com/libcvautomation/">Libcvautomation</a>
+ * Github Location: <a href="https://github.com/DjBushido/libcvautomation">Libcvautomation</a>
+ * Sourceforge Location: <a href="https://sourceforge.net/projects/libcvautomation/">Libcvautomation</a>
+ *
+ * \subsection xplaylistcreator xplaylist_creator
+ * XPlaylist_creator was a quick project to export an XMMS2 playlist to a .pls or .m3u format. This way you can re-integrate it later if your media library gets deleted, and use XMMS2 playlists elsewhere.
+ *
+ * \section questions Questions? Comments?
+ * Feel free to contact me at <a href="mailto:bspeice.nc@gmail.com">bspeice.nc@gmail.com</a>.
+ */
