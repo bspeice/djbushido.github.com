@@ -14,6 +14,8 @@
  * \subsection xplaylistcreator xplaylist_creator
  * XPlaylist_creator was a quick project to export an XMMS2 playlist to a .pls or .m3u format. This way you can re-integrate it later if your media library gets deleted, and use XMMS2 playlists elsewhere.
  *
+ * Github Location: <a href="https://github.com/DjBushido/xplaylist_creator">XPlaylist_Creator</a>
+ *
  * \section questions Questions? Comments?
  * Feel free to contact me at <a href="mailto:bspeice.nc@gmail.com">bspeice.nc@gmail.com</a>.
  */
